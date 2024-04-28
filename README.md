@@ -6,7 +6,6 @@ Hice este repositorios con la idea de ayudar a otros estudiantes a resolver y co
 
 - 🌱 Me gusta la ciencia de datos, desarrollar software, aprender cosas nuevas y dibujar.
   
-- - 📫 Cualquier cosa, podés escirbirme a pame.a.heredia@gmail.com 
 <!--
 **pamelaAHeredia/pamelaAHeredia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
