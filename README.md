@@ -2,8 +2,6 @@
 
 ### Hola! Soy Pame 👋 Estudio licenciatura en informática en la UNLP
 
-Hice este repositorios con la idea de ayudar a otros estudiantes a resolver y comparar ejercicios de algunas materias de la carrera. Si estás trabado con alguno, también tengo videos en youtube que pueden ayudarte. 
-
 - 🌱 Me gusta la ciencia de datos, desarrollar software, aprender cosas nuevas y dibujar.
   
 <!--
