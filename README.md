@@ -1,5 +1,12 @@
-### Hi there 👋
+![](https://giphy.com/gifs/nbctitangames-nbc-premiere-titan-games-4GXUa4U05Q0JAM972c)
 
+### Hola! Soy Pame 👋 Estudio licenciatura en informática en la UNLP
+
+Hice este repositorios con la idea de ayudar a otros estudiantes a resolver y comparar ejercicios de algunas materias de la carrera. Si estás trabado con alguno, también tengo videos en youtube que pueden ayudarte. 
+
+- 🌱 Me gusta la ciencia de datos, desarrollar software, aprender cosas nuevas y dibujar.
+  
+- - 📫 Cualquier cosa, podés escirbirme a pame.a.heredia@gmail.com 
 <!--
 **pamelaAHeredia/pamelaAHeredia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
