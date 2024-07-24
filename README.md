@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **anything I'm working on**
 
-- ⚡ Fun fact **I love drawing and used to be a tattooer. Love learning new things.**
+- ⚡ Fun fact **I love drawing and I'm really good at it.**
 
 <!---<h3 align="left">Connect with me:</h3>--->
 ![](https://media.tenor.com/_D3uRe_XcFEAAAAC/cartoon-network-adventure-time.gif) 
