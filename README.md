@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   <li> 🎓 Big Data / Data Analysis</li>
   <li> 🤝 I’m looking for help with  <b>anything I'm working on</b></li>
   <li>  📫 How to reach me: <b>pame.a.heredia@gmail.com</b></li>
-  <li> ⚡ Fun fact: <b>I love drawing, reading and building fun stuff.</b></li>
+  <li> ⚡ Fun fact: <b>I love drawing, reading, solving problems and building fun stuff.</b></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
