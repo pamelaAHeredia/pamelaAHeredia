@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <ul>
   <li> 👩‍🎓 I'm a programmer analyst and computer science student at UNLP.</li>
   <li> 🌱 I’m currently learning about <b>IA and Machine Learning. I'm building my first copilot and having fun with it</b>.</li>
-  <li> 🎓 Artificial Intelligence (Intel/BGH/Boundty.edtech)</li>
+  <li> 🎓 Artificial Intelligence (Intel/BGH/Bounty.edtech)</li>
   <li> 🎓 Big Data / Data Analytics</li>
   <li> 🤝 I’m looking for help with  <b>anything I'm working on</b></li>
   <li>  📫 How to reach me: <b>pame.a.heredia@gmail.com</b></li>
