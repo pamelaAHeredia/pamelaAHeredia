@@ -4,7 +4,7 @@
 <h3 align="center">Software Developer</h3>
 
 # 💫 about me:
-<br> 👩‍🎓 Programmer analyst and Computer Science student at Uiversidad Nacional de La Plata.<br>    <br>    I currently work at Mercado Libre 💛 as a backend developer on the KYC Core team 💪 <br><br>🤝 I’m looking for help with anything I'm working on.<br>📫 How to reach me: pame.a.heredia@gmail.com<br><br>⚡ Fun fact: I love drawing, reading, solving problems and building fun stuff.<br>
+<br> 👩‍🎓 Programmer analyst and Computer Science student at Uiversidad Nacional de La Plata.<br>    <br>    I currently work at Mercado Libre 💛 as backend developer on the KYC Core team 💪 <br><br>🤝 I’m looking for help with anything I'm working on.<br>📫 How to reach me: pame.a.heredia@gmail.com<br><br>⚡ Fun fact: I love drawing, reading, solving problems and building fun stuff.<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pamelaaheredia) 
